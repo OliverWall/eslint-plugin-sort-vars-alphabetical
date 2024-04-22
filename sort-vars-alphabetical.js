@@ -8,7 +8,7 @@ module.exports = {
     fixable: false,
     schema: [],
     messages: {
-      incorrectOrder: 'var, let and const should be declared in alphabetical order.',
+      incorrectOrder: 'var, let and const должны быть объявлены в алфавитном порядке',
     }
   },
 
